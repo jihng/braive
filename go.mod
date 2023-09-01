@@ -3,7 +3,7 @@ module github.com/jihng/braive
 go 1.20
 
 require (
-	github.com/jihng/kernal v1.57.51
+	github.com/jihng/kernal v1.57.57
 	github.com/kevinburke/go-bindata v3.24.0+incompatible
 )
 
