@@ -4,8 +4,8 @@ github.com/coreos/go-systemd/v22 v22.5.0/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSV
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/godbus/dbus/v5 v5.0.4/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
-github.com/jihng/kernal v1.57.50 h1:eU5gHrNpdh+9i0VgckirQd8/kUtsHfFtVkT8D2j4O6c=
-github.com/jihng/kernal v1.57.50/go.mod h1:Yld35FbmpQa/ZDl4HrvXv8ZsWZ8obwPIQLAf2DloqAg=
+github.com/jihng/kernal v1.57.51 h1:VfAMjmM5/HEuzuitHHO5a+a1dHBJ9Kz95+E0H7fGYaQ=
+github.com/jihng/kernal v1.57.51/go.mod h1:Yld35FbmpQa/ZDl4HrvXv8ZsWZ8obwPIQLAf2DloqAg=
 github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7SrtAPJorKK0C8=
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
 github.com/kevinburke/go-bindata v3.24.0+incompatible h1:qajFA3D0pH94OTLU4zcCCKCDgR+Zr2cZK/RPJHDdFoY=
